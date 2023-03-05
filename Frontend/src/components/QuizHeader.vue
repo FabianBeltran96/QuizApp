@@ -3,6 +3,8 @@ const { questionStatus, barPercentage } = defineProps([
   "questionStatus",
   "barPercentage",
 ]);
+
+
 </script>
 
 <template>
